@@ -1,3 +1,3 @@
 Admin credentials are:
-username - admin
+username - admin,
 password - admin
